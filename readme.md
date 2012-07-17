@@ -21,3 +21,4 @@ http://blogs.adobe.com/livecycle/2012/06/developers-faq-on-cq5-5.html
    * http://mkalugin-cq.blogspot.com/2012/02/reverse-replication-woes-solved.html
  * http://ruben42.wordpress.com/
  * http://www.youtube.com/user/wemtech/videos (ok, 'vlog')
+ * http://dev.day.com/content/ddc/blog/2010/07/learning_about_espv.html
