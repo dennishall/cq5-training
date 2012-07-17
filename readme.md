@@ -5,6 +5,8 @@ http://blogs.adobe.com/livecycle/2012/06/developers-faq-on-cq5-5.html
 
 
 ## Suggested reading:
+ * http://dev.day.com/docs/en/cq/current/developing/the_basics.html
+ * http://dev.day.com/docs/en/cq/current/howto/website.html
  * http://blogs.adobe.com/livecycle/2012/02/cq5-clientlib-explained-by-example.html
  * http://experiencedelivers.adobe.com/cemblog/en/experiencedelivers/2012/04/sany-check-for-adobe-cq5-installations.html
  * http://experiencedelivers.adobe.com/cemblog/en/experiencedelivers/2012/06/basic-cq5-code-samples.html
