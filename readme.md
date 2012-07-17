@@ -16,8 +16,7 @@ http://blogs.adobe.com/livecycle/2012/06/developers-faq-on-cq5-5.html
  * http://experiencedelivers.adobe.com/cemblog/en/experiencedelivers/2012/03/getting_to_know_theexternalizer.html
 
 ## Blogs
-
+ * http://blogs.adobe.com/cqpost/
  * http://mkalugin-cq.blogspot.com/
-
-   http://mkalugin-cq.blogspot.com/2012/02/reverse-replication-woes-solved.html
+     http://mkalugin-cq.blogspot.com/2012/02/reverse-replication-woes-solved.html
  * http://ruben42.wordpress.com/
