@@ -18,5 +18,6 @@ http://blogs.adobe.com/livecycle/2012/06/developers-faq-on-cq5-5.html
 ## Blogs
 
  * http://mkalugin-cq.blogspot.com/
+
    http://mkalugin-cq.blogspot.com/2012/02/reverse-replication-woes-solved.html
  * http://ruben42.wordpress.com/
